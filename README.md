@@ -45,7 +45,7 @@ A live deployment of this template is available at:
 Install dependencies:
 
 ```bash
-npm install
+npm installv
 ```
 
 Start the development server with:
